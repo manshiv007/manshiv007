@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @manshiv007
-- 👀 I’m interested in frontend and backend
+- 👀 I’m interested in frontend and backend developing
 - 🌱 I’m currently learning mern stack
-- 💞️ I’m looking to collaborate on fronytend & backend projects
+- 💞️ I’m looking to collaborate on frontend & backend projects
 - 📫 How to reach me manshivsaini04@gmail.com
 
 
